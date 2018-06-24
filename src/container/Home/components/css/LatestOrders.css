@@ -1,0 +1,69 @@
+.latest-orders {
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+    width:100%;
+    background: #ffffff;
+}
+
+.latest-orders-title {
+    padding-bottom: 30px;
+}
+
+.latest-orders-line {  
+    border-bottom: 1px solid #EBEBEB;
+}
+
+.latest-orders-img {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.latest-orders-td-2 {
+    padding-left:21px;
+    padding-right: 67px;
+    text-align: left;
+}
+
+.latest-orders-ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.latest-orders-li-title {
+    font-family: HelveticaNeue-Bold;
+    font-size: 20px;
+    color: #000000;
+}
+
+.latest-orders-li-monthly {
+    font-family: HelveticaNeue;
+    font-size: 16px;
+    color: #9B9B9B;
+}
+
+.latest-orders-li-model {
+    font-family: HelveticaNeue;
+    font-size: 16px;
+    color: #9B9B9B;
+}
+
+.latest-orders-td-3 {
+    text-align: right;
+    vertical-align:bottom;
+}
+
+.latest-orders-li-total {
+    font-family: HelveticaNeue;
+    font-size: 14px;
+    color: #000000;
+}
+
+.latest-orders-li-value {
+    padding-bottom: 13px;
+    font-family: HelveticaNeue-Bold;
+    font-size: 20px;
+    color: #000000;
+}

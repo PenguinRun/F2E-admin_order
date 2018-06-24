@@ -1,0 +1,35 @@
+.card {
+    background: #ffffff;
+    width: 100%;
+}
+
+.card-ul {
+    display: flex;
+    align-self: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    /* padding-left: 69px;
+    padding-right: 68px; */
+    font-family: HelveticaNeue-Medium;
+    font-size: 16px;
+    color: #000000;
+}
+
+.card-icon {
+    font-size: 20px;
+    padding-top: 26px;
+    padding-right: 8px;
+}
+
+.card-title {
+    margin: 0px;
+    padding-top: 30px;
+}
+
+.card-content {
+    align-self: center;
+    padding: 16px 94px 30px 95px;
+    font-family: HelveticaNeue-Bold;
+    font-size: 36px;
+}

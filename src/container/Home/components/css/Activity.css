@@ -1,0 +1,22 @@
+.activity {
+    margin-top: 18px;
+    margin-left: 42px;
+    margin-right: 42px;
+    padding-left: 40px;
+    padding-right: 41px;
+    background: #ffffff;
+}
+
+.activity-title {
+    padding-top: 30px;
+}
+
+.chart {
+    margin-top: 16px;
+    margin-bottom: 30px;
+    background: #ffffff;
+    width: 100%;
+    height: 300px;
+    border-left: 1px dotted #555;
+    border-bottom: 1px dotted #555;
+}

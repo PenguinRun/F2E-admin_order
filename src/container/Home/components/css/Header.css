@@ -1,0 +1,49 @@
+
+.header-area{
+    display: flex;
+    align-items: baseline;
+    height: 70px;
+    background: #000000;
+    padding-top: 21px;
+    /* padding-bottom: 21px; */
+}
+
+.logo {
+    padding-left: 42px;
+    padding-right: 60px; 
+    font-family: HelveticaNeue-Bold;
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.navbar-ul {
+    display: flex;
+    font-family: HelveticaNeue-Bold;
+    font-size: 16px;
+    color: #FFFFFF;
+    list-style-type: none;
+}
+
+.navbar-li {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 12px;
+    border-bottom: 4px solid #FFFFFF;
+}
+
+.navbar-li-not-click {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: HelveticaNeue-Bold;
+    font-size: 16px;
+    color: #9B9B9B;
+}
+
+.admin {
+    margin-right: 42px;
+    flex: 1;
+    text-align: right;
+    font-family: HelveticaNeue-Bold;
+    font-size: 16px;
+    color: #FFFFFF;
+}
